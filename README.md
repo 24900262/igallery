@@ -1,5 +1,6 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:
+## NAME:Gayathri D
+## REG:212224220028
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
